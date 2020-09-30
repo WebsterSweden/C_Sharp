@@ -1,0 +1,13 @@
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Random1\Random1\bin\Debug\netcoreapp3.1\Random1.exe
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Random1\Random1\bin\Debug\netcoreapp3.1\Random1.deps.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Random1\Random1\bin\Debug\netcoreapp3.1\Random1.runtimeconfig.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Random1\Random1\bin\Debug\netcoreapp3.1\Random1.runtimeconfig.dev.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Random1\Random1\bin\Debug\netcoreapp3.1\Random1.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Random1\Random1\bin\Debug\netcoreapp3.1\Random1.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Random1\Random1\obj\Debug\netcoreapp3.1\Random1.csprojAssemblyReference.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Random1\Random1\obj\Debug\netcoreapp3.1\Random1.AssemblyInfoInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Random1\Random1\obj\Debug\netcoreapp3.1\Random1.AssemblyInfo.cs
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Random1\Random1\obj\Debug\netcoreapp3.1\Random1.csproj.CoreCompileInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Random1\Random1\obj\Debug\netcoreapp3.1\Random1.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Random1\Random1\obj\Debug\netcoreapp3.1\Random1.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Random1\Random1\obj\Debug\netcoreapp3.1\Random1.genruntimeconfig.cache
