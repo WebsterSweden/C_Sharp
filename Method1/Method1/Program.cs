@@ -53,6 +53,18 @@ namespace Method1
             var classFourObject = new ClassFour();
             Console.WriteLine(classFourObject);
             classFourObject.ClassFourMethodOne();
+
+            string classOneMethodStaticMainVariable = ClassOne.ClassOneMethodStatic("classOneMethodStaticMainVariable");
+            Console.WriteLine(classOneMethodStaticMainVariable);
+
+            Console.WriteLine(ClassOne.stringStaticVariable);
+
+            var classOneObject = new ClassOne();
+            string classOneMethodNonStaticMainVariable = classOneObject.ClassOneMethodNonStatic("classOneMethodNonStaticArgument");
+            Console.WriteLine(classOneMethodNonStaticMainVariable);
+
+            var classOnestringNonStaticVariableMainVariable = classOneObject.stringNonStaticVariable;
+            Console.WriteLine(classOnestringNonStaticVariableMainVariable);
         }
     }
 }

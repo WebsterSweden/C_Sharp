@@ -19,5 +19,26 @@ namespace Method1
             // CS0126 An object of a type convertible to 'string' is required.
             //return;
         }
+
+        public static string ClassOneMethodStatic(string classOneMethodStaticParameter)
+        {
+            return classOneMethodStaticParameter;
+        }
+
+        public static string stringStaticVariable = "stringStaticVariable";
+
+        public string ClassOneMethodNonStatic(string classOneMethodNonStaticParameter)
+        {
+            return classOneMethodNonStaticParameter;
+        }
+
+        public string stringNonStaticVariable = "stringNonStaticVariable";
+
+        //ClassOne.
+
+        //ClassOne.ClassOneMethodStatic("ClassOneMethodStaticArgument");
+
+        //var classOneObject = new ClassOne();
+        //classOneObject.
     }
 }
