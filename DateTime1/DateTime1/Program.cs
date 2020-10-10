@@ -26,9 +26,10 @@ namespace DateTime1
 
             Console.WriteLine("DateTime.Now.Year: " + DateTime.Now.Year);
             Console.WriteLine("DateTime.Now.Month: " + DateTime.Now.Month);
+            Console.WriteLine("DateTime.Now.Day: " + DateTime.Now.Day);
             Console.WriteLine("DateTime.Now.Hour: " + DateTime.Now.Hour);
             Console.WriteLine("DateTime.Now.Minute: " + DateTime.Now.Minute);
-            Console.WriteLine("DateTime.Now.Minute: " + DateTime.Now.Second);
+            Console.WriteLine("DateTime.Now.Second: " + DateTime.Now.Second);
             Console.WriteLine("DateTime.Now.Millisecond: " + DateTime.Now.Millisecond);
 
             // Day of week.
