@@ -1,0 +1,12 @@
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\WhileStatement1\WhileStatement1\bin\Debug\netcoreapp3.1\WhileStatement1.exe
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\WhileStatement1\WhileStatement1\bin\Debug\netcoreapp3.1\WhileStatement1.deps.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\WhileStatement1\WhileStatement1\bin\Debug\netcoreapp3.1\WhileStatement1.runtimeconfig.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\WhileStatement1\WhileStatement1\bin\Debug\netcoreapp3.1\WhileStatement1.runtimeconfig.dev.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\WhileStatement1\WhileStatement1\bin\Debug\netcoreapp3.1\WhileStatement1.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\WhileStatement1\WhileStatement1\bin\Debug\netcoreapp3.1\WhileStatement1.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\WhileStatement1\WhileStatement1\obj\Debug\netcoreapp3.1\WhileStatement1.AssemblyInfoInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\WhileStatement1\WhileStatement1\obj\Debug\netcoreapp3.1\WhileStatement1.AssemblyInfo.cs
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\WhileStatement1\WhileStatement1\obj\Debug\netcoreapp3.1\WhileStatement1.csproj.CoreCompileInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\WhileStatement1\WhileStatement1\obj\Debug\netcoreapp3.1\WhileStatement1.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\WhileStatement1\WhileStatement1\obj\Debug\netcoreapp3.1\WhileStatement1.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\WhileStatement1\WhileStatement1\obj\Debug\netcoreapp3.1\WhileStatement1.genruntimeconfig.cache
