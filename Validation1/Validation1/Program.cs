@@ -6,6 +6,10 @@ namespace Validation1
     {
         static void Main(string[] args)
         {
+            // Uppercase and/or lowercase letters.
+            // Positive integers (0123456789).
+            // Positive decimal numbers and only one decimal point (0123456789.).
+            // Positive and negative integers.
         }
     }
 }
