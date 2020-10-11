@@ -1,4 +1,5 @@
-﻿using System;
+using System;
+using System.Threading;
 
 namespace whileStatement1
 {
@@ -6,7 +7,14 @@ namespace whileStatement1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int whileIndexOne = 0;
+
+            while (whileIndexOne <= 6)
+            {
+                Console.WriteLine("whileIndexOne: " + whileIndexOne);
+                Thread.Sleep(500);
+                whileIndexOne++;
+            }
         }
     }
 }
