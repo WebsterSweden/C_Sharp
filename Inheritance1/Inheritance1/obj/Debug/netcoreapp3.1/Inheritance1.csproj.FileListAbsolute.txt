@@ -1,0 +1,13 @@
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Inheritance1\Inheritance1\bin\Debug\netcoreapp3.1\Inheritance1.exe
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Inheritance1\Inheritance1\bin\Debug\netcoreapp3.1\Inheritance1.deps.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Inheritance1\Inheritance1\bin\Debug\netcoreapp3.1\Inheritance1.runtimeconfig.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Inheritance1\Inheritance1\bin\Debug\netcoreapp3.1\Inheritance1.runtimeconfig.dev.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Inheritance1\Inheritance1\bin\Debug\netcoreapp3.1\Inheritance1.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Inheritance1\Inheritance1\bin\Debug\netcoreapp3.1\Inheritance1.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Inheritance1\Inheritance1\obj\Debug\netcoreapp3.1\Inheritance1.csprojAssemblyReference.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Inheritance1\Inheritance1\obj\Debug\netcoreapp3.1\Inheritance1.AssemblyInfoInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Inheritance1\Inheritance1\obj\Debug\netcoreapp3.1\Inheritance1.AssemblyInfo.cs
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Inheritance1\Inheritance1\obj\Debug\netcoreapp3.1\Inheritance1.csproj.CoreCompileInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Inheritance1\Inheritance1\obj\Debug\netcoreapp3.1\Inheritance1.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Inheritance1\Inheritance1\obj\Debug\netcoreapp3.1\Inheritance1.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Inheritance1\Inheritance1\obj\Debug\netcoreapp3.1\Inheritance1.genruntimeconfig.cache
