@@ -1,0 +1,13 @@
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Property1\Property1\bin\Debug\netcoreapp3.1\Property1.exe
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Property1\Property1\bin\Debug\netcoreapp3.1\Property1.deps.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Property1\Property1\bin\Debug\netcoreapp3.1\Property1.runtimeconfig.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Property1\Property1\bin\Debug\netcoreapp3.1\Property1.runtimeconfig.dev.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Property1\Property1\bin\Debug\netcoreapp3.1\Property1.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Property1\Property1\bin\Debug\netcoreapp3.1\Property1.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Property1\Property1\obj\Debug\netcoreapp3.1\Property1.csprojAssemblyReference.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Property1\Property1\obj\Debug\netcoreapp3.1\Property1.AssemblyInfoInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Property1\Property1\obj\Debug\netcoreapp3.1\Property1.AssemblyInfo.cs
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Property1\Property1\obj\Debug\netcoreapp3.1\Property1.csproj.CoreCompileInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Property1\Property1\obj\Debug\netcoreapp3.1\Property1.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Property1\Property1\obj\Debug\netcoreapp3.1\Property1.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Property1\Property1\obj\Debug\netcoreapp3.1\Property1.genruntimeconfig.cache
