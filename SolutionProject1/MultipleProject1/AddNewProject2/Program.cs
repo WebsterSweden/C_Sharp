@@ -1,12 +1,12 @@
 using System;
 
-namespace MultipleProject1
+namespace AddNewProject2
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("MultipleProject1.Program");
+            Console.WriteLine("AddNewProject2.Program");
         }
     }
 }
