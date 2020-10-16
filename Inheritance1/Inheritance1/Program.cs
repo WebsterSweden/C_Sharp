@@ -24,6 +24,20 @@ namespace Inheritance1
             Console.WriteLine(derivedClassObject.baseStringPublic);
             Console.WriteLine(derivedClassObject.baseStringInternal);
             Console.WriteLine(derivedClassObject.baseStringProtectedInternal);
+
+            Console.WriteLine("----------");
+
+            //ClassA classAObject = new ClassA();
+            ClassA classAObject = new ClassA("MainA");
+            Console.WriteLine(classAObject.classAString);
+
+            //ClassB classBObject = new ClassB();
+            ClassB classBObject = new ClassB("MainB");
+            Console.WriteLine(classBObject.classBString);
+
+            // TODO: How to inherit from a ClassA Parameterized Constructor to ClassB?
+            // Inheritance from Class A to Class B.
+            //Console.WriteLine(classBObject.classAString);
         }
     }
 }
