@@ -1,0 +1,13 @@
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Constructor2\Constructor2\bin\Debug\netcoreapp3.1\Constructor2.exe
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Constructor2\Constructor2\bin\Debug\netcoreapp3.1\Constructor2.deps.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Constructor2\Constructor2\bin\Debug\netcoreapp3.1\Constructor2.runtimeconfig.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Constructor2\Constructor2\bin\Debug\netcoreapp3.1\Constructor2.runtimeconfig.dev.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Constructor2\Constructor2\bin\Debug\netcoreapp3.1\Constructor2.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Constructor2\Constructor2\bin\Debug\netcoreapp3.1\Constructor2.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Constructor2\Constructor2\obj\Debug\netcoreapp3.1\Constructor2.csprojAssemblyReference.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Constructor2\Constructor2\obj\Debug\netcoreapp3.1\Constructor2.AssemblyInfoInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Constructor2\Constructor2\obj\Debug\netcoreapp3.1\Constructor2.AssemblyInfo.cs
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Constructor2\Constructor2\obj\Debug\netcoreapp3.1\Constructor2.csproj.CoreCompileInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Constructor2\Constructor2\obj\Debug\netcoreapp3.1\Constructor2.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Constructor2\Constructor2\obj\Debug\netcoreapp3.1\Constructor2.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Constructor2\Constructor2\obj\Debug\netcoreapp3.1\Constructor2.genruntimeconfig.cache

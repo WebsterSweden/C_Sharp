@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Constructor2
 {
@@ -6,7 +6,6 @@ namespace Constructor2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
     }
 }
