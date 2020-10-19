@@ -1,0 +1,13 @@
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\ParseTryParse1\ParseTryParse1\bin\Debug\netcoreapp3.1\ParseTryParse1.exe
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\ParseTryParse1\ParseTryParse1\bin\Debug\netcoreapp3.1\ParseTryParse1.deps.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\ParseTryParse1\ParseTryParse1\bin\Debug\netcoreapp3.1\ParseTryParse1.runtimeconfig.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\ParseTryParse1\ParseTryParse1\bin\Debug\netcoreapp3.1\ParseTryParse1.runtimeconfig.dev.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\ParseTryParse1\ParseTryParse1\bin\Debug\netcoreapp3.1\ParseTryParse1.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\ParseTryParse1\ParseTryParse1\bin\Debug\netcoreapp3.1\ParseTryParse1.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\ParseTryParse1\ParseTryParse1\obj\Debug\netcoreapp3.1\ParseTryParse1.csprojAssemblyReference.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\ParseTryParse1\ParseTryParse1\obj\Debug\netcoreapp3.1\ParseTryParse1.AssemblyInfoInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\ParseTryParse1\ParseTryParse1\obj\Debug\netcoreapp3.1\ParseTryParse1.AssemblyInfo.cs
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\ParseTryParse1\ParseTryParse1\obj\Debug\netcoreapp3.1\ParseTryParse1.csproj.CoreCompileInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\ParseTryParse1\ParseTryParse1\obj\Debug\netcoreapp3.1\ParseTryParse1.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\ParseTryParse1\ParseTryParse1\obj\Debug\netcoreapp3.1\ParseTryParse1.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\ParseTryParse1\ParseTryParse1\obj\Debug\netcoreapp3.1\ParseTryParse1.genruntimeconfig.cache
