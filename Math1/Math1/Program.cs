@@ -29,6 +29,19 @@ namespace Math1
             Console.WriteLine("Math.Pow: " + Math.Pow(intOne, intTwo));
 
             Console.WriteLine(GetPow(2, 3));
+
+            Console.WriteLine("----------");
+
+            // CS0266 Cannot implicity convert type 'double' to decimal.
+            //decimal decimalOne = -0.1;
+            //Console.WriteLine(decimalOne);
+
+            double doubleOne = -0.1;
+            Console.WriteLine(doubleOne);
+
+            // CS0664: Literal of type double cannot be implicity converted to type 'float'.
+            //float floatOne = -0.1;
+            //Console.WriteLine(floatOne);
         }
 
         //int baseNumber = 2;
