@@ -43,6 +43,10 @@ namespace List1
             {
                 Console.WriteLine(bigCity);
             }
+
+            List<string> listOnes = new List<string>() { "stringOne", "stringTwo", "stringThree" };
+            foreach (string listOne in listOnes) { Console.WriteLine(listOne); }
+            Console.WriteLine(listOnes.Count);
         }
     }
 }
