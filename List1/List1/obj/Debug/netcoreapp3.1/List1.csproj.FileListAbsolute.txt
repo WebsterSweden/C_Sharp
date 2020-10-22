@@ -10,3 +10,4 @@ C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\List1\List1\obj\Debug
 C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\List1\List1\obj\Debug\netcoreapp3.1\List1.dll
 C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\List1\List1\obj\Debug\netcoreapp3.1\List1.pdb
 C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\List1\List1\obj\Debug\netcoreapp3.1\List1.genruntimeconfig.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\List1\List1\obj\Debug\netcoreapp3.1\List1.csprojAssemblyReference.cache
