@@ -25,6 +25,16 @@ namespace RegularExpression1
             Console.WriteLine(regexECMA);
             Match matchRegexECMA = regexECMA.Match("abc123ABC456");
             Console.WriteLine(matchRegexECMA);
+
+            Console.WriteLine("----------");
+
+            Console.Write("Only accept a-z, A-Z, 0-9: ");
+
+            while (!Regex.IsMatch(Console.ReadLine(), "^[a-zA-Z0-9]*$"))
+            {
+                Console.Write("Entered characters have to be a-z, A-Z, 0-9: ");
+            }
+            Console.WriteLine("Accepted character");
         }
     }
 }
