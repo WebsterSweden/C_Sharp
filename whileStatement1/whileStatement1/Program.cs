@@ -31,6 +31,34 @@ namespace whileStatement1
             whileStringTwo = "whileStringTwoAfterWhileStatement";
             //Console.WriteLine("whileStringTwo: " + whileStringTwo);
             Console.WriteLine("whileIndexTwo after while statement: " + whileIndexTwo);
+
+            Console.WriteLine("----------");
+
+            Console.Write("Enter a string: ");
+            bool whileBoolThree = true;
+            while (whileBoolThree == true)
+            {
+                string whileStringThree = Console.ReadLine();
+                if (whileStringThree == "whileStringThree")
+                {
+                    Console.Write("whileStringThree true: " + whileStringThree);
+                    Console.WriteLine($"The string {whileStringThree} is correct!");
+                    whileBoolThree = false;
+                }
+                else if (whileStringThree == "Hello")
+                {
+                    Console.Write("whileStringThree true: " + whileStringThree);
+                    Console.WriteLine($"The string {whileStringThree} is correct!");
+                    whileBoolThree = false;
+                }
+                else
+                {
+                    Console.WriteLine("whileStringThree else: " + whileStringThree);
+                    Console.Write($"The string {whileStringThree} is not correct. Enter a new string: ");
+                    whileBoolThree = true;
+                }
+            }
+            Console.WriteLine("After whileThree");
         }
     }
 }
