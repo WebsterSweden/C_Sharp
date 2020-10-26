@@ -10,3 +10,4 @@ C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Validation1\Validatio
 C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Validation1\Validation1\obj\Debug\netcoreapp3.1\Validation1.dll
 C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Validation1\Validation1\obj\Debug\netcoreapp3.1\Validation1.pdb
 C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Validation1\Validation1\obj\Debug\netcoreapp3.1\Validation1.genruntimeconfig.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Validation1\Validation1\obj\Debug\netcoreapp3.1\Validation1.csprojAssemblyReference.cache

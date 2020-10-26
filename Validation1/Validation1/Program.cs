@@ -10,6 +10,13 @@ namespace Validation1
             // Positive integers (0123456789).
             // Positive decimal numbers and only one decimal point (0123456789.).
             // Positive and negative integers.
+
+            ValidationOne validationOneObject = new ValidationOne();
+
+            //var validationOneObjectVariable = validationOneObject.validationOnePublicNonStatic(Console.ReadLine());
+            //Console.WriteLine(validationOneObjectVariable);
+
+            validationOneObject.validationOnePublicNonStatic();
         }
     }
 }
