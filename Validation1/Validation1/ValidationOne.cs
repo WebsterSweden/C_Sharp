@@ -38,25 +38,49 @@ namespace Validation1
             //}
             //return parameterOne;
 
-            bool validationOneStatus = true;
+            bool validationOneStatus = false;
             string validationOneStringInput = "";
-            while (validationOneStatus == true)
+            while (validationOneStatus == false)
             {
                 Console.Write("Enter a string: ");
                 validationOneStringInput = Console.ReadLine();
                 if (validationOneStringInput != "One")
                 {
                     Console.WriteLine("Entered string is not correct");
-                    validationOneStatus = true;
+                    validationOneStatus = false;
                 }
                 else if (validationOneStringInput == "One")
                 {
                     Console.WriteLine("Entered string is correct");
-                    validationOneStatus = false;
+                    validationOneStatus = true;
                 }
             }
             Console.WriteLine("After while statement");
-            return validationOneStringInput;
+            string returnString = "returnString";
+            return returnString;
         }
+
+        public string validationTwoPublicNonStaticParameter(string parameterTwo)
+        {
+            string validationTwoStringInput = "";
+            bool validationTwoStatus = false;
+            while (validationTwoStatus == false)
+            {
+                Console.Write("Enter a string: ");
+                validationTwoStringInput = Console.ReadLine();
+                if (validationTwoStringInput != "Two")
+                {
+                    Console.WriteLine("Entered string is not correct");
+                    validationTwoStatus = false;
+                }
+                else
+                {
+                    Console.WriteLine("Entered string is correct");
+                    validationTwoStatus = true;
+                }
+            }
+            return validationTwoStringInput;
+        }
+
     }
 }
