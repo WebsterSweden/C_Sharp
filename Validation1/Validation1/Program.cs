@@ -12,16 +12,21 @@ namespace Validation1
             // Positive decimal numbers and only one decimal point (0123456789.).
             // Positive and negative integers.
 
-            // Instantiate Non Static Object with no argument/parameter.
+            // Instantiate a Non Static Object with no arguments/parameters.
             ValidationOne validationOneObject = new ValidationOne();
-            validationOneObject.validationOnePublicNonStatic();
+            validationOneObject.ValidationOnePublicNonStatic();
 
-            // Instantiate Non Static Object with argument/parameter.
-            //string validationTwoReadLine = Console.ReadLine();
+            // Instantiate a Non Static Object with arguments/parameters.
             ValidationOne validationTwoObject = new ValidationOne();
-            //validationTwoObject.validationTwoPublicNonStaticParameter(validationTwoReadLine);
-            Console.Write("Enter a string: ");
-            string validationTwoReadLine = validationTwoObject.validationTwoPublicNonStaticParameter(Console.ReadLine());
+            //validationTwoObject.ValidationTwoPublicNonStaticParameter(Console.ReadLine());
+            validationTwoObject.ValidationTwoPublicNonStaticParameter("ValidationTwoArgument");
+
+            // Instantiate a Static Object with no arguments/parameters.
+            ValidationTwo.ValidationThreePublicStatic();
+
+            // Instantiate a Static Object with arguments/parameters.
+            //ValidationTwo.ValidationFourPublicStaticParameter(Console.ReadLine());
+            ValidationTwo.ValidationFourPublicStaticParameter("ValidationFourArgument");
         }
     }
 }

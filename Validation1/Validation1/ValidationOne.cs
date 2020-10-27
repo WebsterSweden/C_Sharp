@@ -6,43 +6,13 @@ namespace Validation1
 {
     class ValidationOne
     {
-        //public string validationOnePublicNonStatic(string parameterOne)
-        public string validationOnePublicNonStatic()
+        public string ValidationOnePublicNonStatic()
         {
-            //string returnString = "returnString";
-            //return returnString;
-
-            //if (parameterOne == "parameterOne")
-            //{
-            //    return "if";
-            //}
-            //else
-            //{
-            //    return "else";
-            //}
-
-            // Do not work. Check Console.ReadLine() only first time.
-            //while (parameterOne != "parameterOne")
-            //{
-            //    Console.WriteLine($"The string {parameterOne} is not parameterOne");
-            //    return parameterOne;
-            //}
-            //return parameterOne;
-
-            // Do not work. Check Console.ReadLine() only first time.
-            //Console.Write("Enter a string: ");
-            //while (Console.ReadLine() != "parameterOne")
-            //{
-            //    Console.WriteLine($"The string {parameterOne} is not parameterOne");
-            //    return parameterOne;
-            //}
-            //return parameterOne;
-
             bool validationOneStatus = false;
             string validationOneStringInput = "";
             while (validationOneStatus == false)
             {
-                Console.Write("Enter a string: ");
+                Console.Write("Enter a string One: ");
                 validationOneStringInput = Console.ReadLine();
                 if (validationOneStringInput != "One")
                 {
@@ -55,18 +25,16 @@ namespace Validation1
                     validationOneStatus = true;
                 }
             }
-            Console.WriteLine("After while statement");
-            string returnString = "returnString";
-            return returnString;
+            return validationOneStringInput;
         }
 
-        public string validationTwoPublicNonStaticParameter(string parameterTwo)
+        public string ValidationTwoPublicNonStaticParameter(string parameterTwo)
         {
             string validationTwoStringInput = "";
             bool validationTwoStatus = false;
             while (validationTwoStatus == false)
             {
-                Console.Write("Enter a string: ");
+                Console.Write("Enter a string Two: ");
                 validationTwoStringInput = Console.ReadLine();
                 if (validationTwoStringInput != "Two")
                 {
@@ -81,6 +49,5 @@ namespace Validation1
             }
             return validationTwoStringInput;
         }
-
     }
 }
