@@ -1,0 +1,13 @@
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Method2\Method2\bin\Debug\netcoreapp3.1\Method2.exe
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Method2\Method2\bin\Debug\netcoreapp3.1\Method2.deps.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Method2\Method2\bin\Debug\netcoreapp3.1\Method2.runtimeconfig.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Method2\Method2\bin\Debug\netcoreapp3.1\Method2.runtimeconfig.dev.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Method2\Method2\bin\Debug\netcoreapp3.1\Method2.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Method2\Method2\bin\Debug\netcoreapp3.1\Method2.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Method2\Method2\obj\Debug\netcoreapp3.1\Method2.csprojAssemblyReference.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Method2\Method2\obj\Debug\netcoreapp3.1\Method2.AssemblyInfoInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Method2\Method2\obj\Debug\netcoreapp3.1\Method2.AssemblyInfo.cs
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Method2\Method2\obj\Debug\netcoreapp3.1\Method2.csproj.CoreCompileInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Method2\Method2\obj\Debug\netcoreapp3.1\Method2.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Method2\Method2\obj\Debug\netcoreapp3.1\Method2.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Method2\Method2\obj\Debug\netcoreapp3.1\Method2.genruntimeconfig.cache
