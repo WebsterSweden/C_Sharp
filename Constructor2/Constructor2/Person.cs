@@ -31,6 +31,8 @@ namespace Constructor2
             set { age = value; }
         }
 
+        public Person() { }
+
         public Person(string firstNameParameter, string lastNameParameter, int ageParameter)
         {
             firstName = firstNameParameter;

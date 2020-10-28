@@ -10,6 +10,10 @@ namespace Constructor2
             Person personObject = new Person("ConstructorFirst", "ConstructorLast", 64);
             Console.WriteLine(personObject.FirstName + " " + personObject.LastName + " " + personObject.Age);
 
+            // Default Constructor.
+            Person personDefaultConstructor = new Person();
+            Console.WriteLine(personDefaultConstructor);
+
             // Get Set Property.
             //Person personGetSet = new Person();
             //Console.WriteLine(personGetSet.FirstName = "GetSetFirst");
