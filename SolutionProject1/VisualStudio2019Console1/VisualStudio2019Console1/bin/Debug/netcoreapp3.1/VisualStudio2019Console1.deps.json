@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "VisualStudio2019Console1/1.0.0": {
+        "runtime": {
+          "VisualStudio2019Console1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VisualStudio2019Console1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
