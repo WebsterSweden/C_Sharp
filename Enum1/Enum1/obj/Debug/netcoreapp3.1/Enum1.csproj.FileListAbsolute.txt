@@ -10,3 +10,4 @@ C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Enum1\Enum1\obj\Debug
 C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Enum1\Enum1\obj\Debug\netcoreapp3.1\Enum1.dll
 C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Enum1\Enum1\obj\Debug\netcoreapp3.1\Enum1.pdb
 C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Enum1\Enum1\obj\Debug\netcoreapp3.1\Enum1.genruntimeconfig.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Enum1\Enum1\obj\Debug\netcoreapp3.1\Enum1.csprojAssemblyReference.cache

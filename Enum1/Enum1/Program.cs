@@ -18,11 +18,31 @@ namespace Enum1
             Sixth = 6
         }
 
+        enum Months
+        {
+            January,
+            February,
+            March,
+            April,
+            May,
+            June,
+            July,
+            August,
+            September,
+            October,
+            November,
+            December
+        }
+
         static void Main(string[] args)
         {
             Console.WriteLine(EnumOne.First);
 
-            Console.WriteLine(EnumTwo.Fifth);
+            Console.WriteLine(EnumTwo.Sixth);
+
+            Months months = Months.January;
+
+            Console.WriteLine(EnumThree.Alpha);
         }
     }
 }
