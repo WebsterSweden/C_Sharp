@@ -18,6 +18,8 @@ namespace String1
             StringComparer stringComparerOne = StringComparer.OrdinalIgnoreCase;
             Console.WriteLine(stringComparerOne.Compare("ABC", "abc"));
             Console.WriteLine(stringComparerOne.Equals("ABC", "abc"));
+
+            Console.WriteLine("----------");
         }
     }
 }

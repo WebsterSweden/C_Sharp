@@ -1,4 +1,5 @@
 using System;
+using System.Reflection;
 
 namespace ifStatement1
 {
@@ -81,6 +82,25 @@ namespace ifStatement1
             //{
             //    //Console.WriteLine("boolTrueOne || bootTrueTwo: " + boolTrueOne + boolTrueTwo);
             //}
+
+            Console.WriteLine("----------");
+
+            // TODO: if Statement with no brackets.
+
+            int ifWithNoBracketOne = 3;
+            int ifWithNoBrackettwo = 6;
+
+            if (ifWithNoBracketOne <= 3 && ifWithNoBrackettwo <= 6)
+                Console.WriteLine("First statement: " + Convert.ToInt32(ifWithNoBracketOne + Convert.ToInt32(ifWithNoBracketOne)));
+
+            //if (true)
+            //    return false;
+            //else
+            //    return true;
+
+            //if (true)
+            //    methodOne();
+            //methodTwo();
         }
     }
 }
