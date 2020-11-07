@@ -1,0 +1,12 @@
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\StackOverflow1\StackOverflow1\bin\Debug\netcoreapp3.1\StackOverflow1.exe
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\StackOverflow1\StackOverflow1\bin\Debug\netcoreapp3.1\StackOverflow1.deps.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\StackOverflow1\StackOverflow1\bin\Debug\netcoreapp3.1\StackOverflow1.runtimeconfig.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\StackOverflow1\StackOverflow1\bin\Debug\netcoreapp3.1\StackOverflow1.runtimeconfig.dev.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\StackOverflow1\StackOverflow1\bin\Debug\netcoreapp3.1\StackOverflow1.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\StackOverflow1\StackOverflow1\bin\Debug\netcoreapp3.1\StackOverflow1.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\StackOverflow1\StackOverflow1\obj\Debug\netcoreapp3.1\StackOverflow1.AssemblyInfoInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\StackOverflow1\StackOverflow1\obj\Debug\netcoreapp3.1\StackOverflow1.AssemblyInfo.cs
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\StackOverflow1\StackOverflow1\obj\Debug\netcoreapp3.1\StackOverflow1.csproj.CoreCompileInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\StackOverflow1\StackOverflow1\obj\Debug\netcoreapp3.1\StackOverflow1.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\StackOverflow1\StackOverflow1\obj\Debug\netcoreapp3.1\StackOverflow1.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\StackOverflow1\StackOverflow1\obj\Debug\netcoreapp3.1\StackOverflow1.genruntimeconfig.cache
