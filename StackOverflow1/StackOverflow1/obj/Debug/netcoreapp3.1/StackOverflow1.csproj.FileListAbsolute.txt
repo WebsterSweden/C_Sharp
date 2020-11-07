@@ -10,3 +10,4 @@ C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\StackOverflow1\StackO
 C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\StackOverflow1\StackOverflow1\obj\Debug\netcoreapp3.1\StackOverflow1.dll
 C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\StackOverflow1\StackOverflow1\obj\Debug\netcoreapp3.1\StackOverflow1.pdb
 C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\StackOverflow1\StackOverflow1\obj\Debug\netcoreapp3.1\StackOverflow1.genruntimeconfig.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\StackOverflow1\StackOverflow1\obj\Debug\netcoreapp3.1\StackOverflow1.csprojAssemblyReference.cache
