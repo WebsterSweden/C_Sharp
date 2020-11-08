@@ -1,0 +1,13 @@
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Validation2\Validation2\bin\Debug\netcoreapp3.1\Validation2.exe
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Validation2\Validation2\bin\Debug\netcoreapp3.1\Validation2.deps.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Validation2\Validation2\bin\Debug\netcoreapp3.1\Validation2.runtimeconfig.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Validation2\Validation2\bin\Debug\netcoreapp3.1\Validation2.runtimeconfig.dev.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Validation2\Validation2\bin\Debug\netcoreapp3.1\Validation2.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Validation2\Validation2\bin\Debug\netcoreapp3.1\Validation2.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Validation2\Validation2\obj\Debug\netcoreapp3.1\Validation2.csprojAssemblyReference.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Validation2\Validation2\obj\Debug\netcoreapp3.1\Validation2.AssemblyInfoInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Validation2\Validation2\obj\Debug\netcoreapp3.1\Validation2.AssemblyInfo.cs
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Validation2\Validation2\obj\Debug\netcoreapp3.1\Validation2.csproj.CoreCompileInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Validation2\Validation2\obj\Debug\netcoreapp3.1\Validation2.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Validation2\Validation2\obj\Debug\netcoreapp3.1\Validation2.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Validation2\Validation2\obj\Debug\netcoreapp3.1\Validation2.genruntimeconfig.cache
