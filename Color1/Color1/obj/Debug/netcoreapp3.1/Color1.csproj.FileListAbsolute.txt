@@ -1,0 +1,13 @@
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Color1\Color1\bin\Debug\netcoreapp3.1\Color1.exe
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Color1\Color1\bin\Debug\netcoreapp3.1\Color1.deps.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Color1\Color1\bin\Debug\netcoreapp3.1\Color1.runtimeconfig.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Color1\Color1\bin\Debug\netcoreapp3.1\Color1.runtimeconfig.dev.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Color1\Color1\bin\Debug\netcoreapp3.1\Color1.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Color1\Color1\bin\Debug\netcoreapp3.1\Color1.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Color1\Color1\obj\Debug\netcoreapp3.1\Color1.csprojAssemblyReference.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Color1\Color1\obj\Debug\netcoreapp3.1\Color1.AssemblyInfoInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Color1\Color1\obj\Debug\netcoreapp3.1\Color1.AssemblyInfo.cs
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Color1\Color1\obj\Debug\netcoreapp3.1\Color1.csproj.CoreCompileInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Color1\Color1\obj\Debug\netcoreapp3.1\Color1.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Color1\Color1\obj\Debug\netcoreapp3.1\Color1.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Color1\Color1\obj\Debug\netcoreapp3.1\Color1.genruntimeconfig.cache
