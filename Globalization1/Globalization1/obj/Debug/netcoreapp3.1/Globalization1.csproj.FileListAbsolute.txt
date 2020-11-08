@@ -1,0 +1,13 @@
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Globalization1\Globalization1\bin\Debug\netcoreapp3.1\Globalization1.exe
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Globalization1\Globalization1\bin\Debug\netcoreapp3.1\Globalization1.deps.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Globalization1\Globalization1\bin\Debug\netcoreapp3.1\Globalization1.runtimeconfig.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Globalization1\Globalization1\bin\Debug\netcoreapp3.1\Globalization1.runtimeconfig.dev.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Globalization1\Globalization1\bin\Debug\netcoreapp3.1\Globalization1.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Globalization1\Globalization1\bin\Debug\netcoreapp3.1\Globalization1.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Globalization1\Globalization1\obj\Debug\netcoreapp3.1\Globalization1.csprojAssemblyReference.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Globalization1\Globalization1\obj\Debug\netcoreapp3.1\Globalization1.AssemblyInfoInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Globalization1\Globalization1\obj\Debug\netcoreapp3.1\Globalization1.AssemblyInfo.cs
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Globalization1\Globalization1\obj\Debug\netcoreapp3.1\Globalization1.csproj.CoreCompileInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Globalization1\Globalization1\obj\Debug\netcoreapp3.1\Globalization1.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Globalization1\Globalization1\obj\Debug\netcoreapp3.1\Globalization1.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Globalization1\Globalization1\obj\Debug\netcoreapp3.1\Globalization1.genruntimeconfig.cache
