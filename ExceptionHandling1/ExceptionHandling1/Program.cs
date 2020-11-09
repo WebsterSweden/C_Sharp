@@ -53,54 +53,80 @@ namespace ExceptionHandling1
             //int b = 0;
             //Console.WriteLine(a / b);
 
-            try
-            {
-                int x = 1;
-                //int y = 0;
-                Console.Write("Enter letter A: ");
-                int y = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine(x / y);
-            }
-            catch (DivideByZeroException DivideByZeroExceptionMessage)
-            {
-                Console.WriteLine(DivideByZeroExceptionMessage);
-            }
-            catch (FormatException FormatExceptionMessage)
-            {
-                Console.WriteLine(FormatExceptionMessage);
-            }
-            finally
-            {
-                Console.WriteLine("try DivideByZeroException FormatException finally");
-            }
+            //try
+            //{
+            //    int x = 1;
+            //    //int y = 0;
+            //    Console.Write("Enter letter A: ");
+            //    int y = Convert.ToInt32(Console.ReadLine());
+            //    Console.WriteLine(x / y);
+            //}
+            //catch (DivideByZeroException DivideByZeroExceptionMessage)
+            //{
+            //    Console.WriteLine(DivideByZeroExceptionMessage);
+            //}
+            //catch (FormatException FormatExceptionMessage)
+            //{
+            //    Console.WriteLine(FormatExceptionMessage);
+            //}
+            //finally
+            //{
+            //    Console.WriteLine("try DivideByZeroException FormatException finally");
+            //}
 
-            //NumberCheck(50);
+            NumberCheck(50);
+
+            Console.WriteLine("After");
         }
 
-        //static void NumberCheck(int numberInput)
-        //{
-        //    int numberIndex = 50;
+        static void NumberCheck(int numberParameter)
+        {
+            int numberIndex = 50;
 
-        //    if (numberInput > numberIndex)
-        //    {
-        //        Console.WriteLine("Number {0} is higher than {1}", numberInput, numberIndex);
-        //        //throw new ArithmeticException("ArithmeticException");
-        //    }
-        //    else if (numberInput < 50)
-        //    {
-        //        Console.WriteLine("Number {0} is lower than {1}", numberInput, numberIndex);
-        //        //throw new ArithmeticException("ArithmeticException");
-        //    }
-        //    else if (numberInput == numberIndex)
-        //    {
-        //        Console.WriteLine("Number {0} is the same as {1}", numberInput, numberIndex);
-        //        throw new ArithmeticException("ArithmeticException");
-        //    }
-        //    else
-        //    {
-        //        Console.WriteLine("Input is out of range");
-        //        //throw new ArithmeticException("ArithmeticException");
-        //    }
-        //}
+            if (numberParameter > numberIndex)
+            {
+                try
+                {
+                    Console.WriteLine("numberParameter {0} is higher than numberIndex {1}", numberParameter, numberIndex);
+                }
+                catch (Exception)
+                {
+                    throw new ArithmeticException("ArithmeticException");
+                }
+            }
+            else if (numberParameter < numberIndex)
+            {
+                try
+                {
+                    Console.WriteLine("numberParameter {0} is lower than numberIndex {1}", numberParameter, numberIndex);
+                }
+                catch (Exception)
+                {
+                    throw new ArithmeticException("ArithmeticException");
+                }
+            }
+            else if (numberParameter == numberIndex)
+            {
+                try
+                {
+                    Console.WriteLine("numberParameter {0} is the same as numberIndex {1}", numberParameter, numberIndex);
+                }
+                catch (Exception)
+                {
+                    throw new ArithmeticException("ArithmeticException");
+                }
+            }
+            else
+            {
+                try
+                {
+                    Console.WriteLine("Input is out of range");
+                }
+                catch (Exception)
+                {
+                    throw new ArithmeticException("ArithmeticException");
+                }
+            }
+        }
     }
 }
