@@ -1,0 +1,12 @@
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\ReadMe1\ReadMe1\bin\Debug\netcoreapp3.1\ReadMe1.exe
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\ReadMe1\ReadMe1\bin\Debug\netcoreapp3.1\ReadMe1.deps.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\ReadMe1\ReadMe1\bin\Debug\netcoreapp3.1\ReadMe1.runtimeconfig.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\ReadMe1\ReadMe1\bin\Debug\netcoreapp3.1\ReadMe1.runtimeconfig.dev.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\ReadMe1\ReadMe1\bin\Debug\netcoreapp3.1\ReadMe1.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\ReadMe1\ReadMe1\bin\Debug\netcoreapp3.1\ReadMe1.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\ReadMe1\ReadMe1\obj\Debug\netcoreapp3.1\ReadMe1.AssemblyInfoInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\ReadMe1\ReadMe1\obj\Debug\netcoreapp3.1\ReadMe1.AssemblyInfo.cs
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\ReadMe1\ReadMe1\obj\Debug\netcoreapp3.1\ReadMe1.csproj.CoreCompileInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\ReadMe1\ReadMe1\obj\Debug\netcoreapp3.1\ReadMe1.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\ReadMe1\ReadMe1\obj\Debug\netcoreapp3.1\ReadMe1.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\ReadMe1\ReadMe1\obj\Debug\netcoreapp3.1\ReadMe1.genruntimeconfig.cache
