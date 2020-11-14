@@ -75,8 +75,6 @@ namespace ExceptionHandling1
             //}
 
             NumberCheck(50);
-
-            Console.WriteLine("After");
         }
 
         static void NumberCheck(int numberParameter)
