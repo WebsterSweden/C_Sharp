@@ -10,3 +10,4 @@ C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\this2\this2\obj\Debug
 C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\this2\this2\obj\Debug\netcoreapp3.1\this2.dll
 C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\this2\this2\obj\Debug\netcoreapp3.1\this2.pdb
 C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\this2\this2\obj\Debug\netcoreapp3.1\this2.genruntimeconfig.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\this2\this2\obj\Debug\netcoreapp3.1\this2.csprojAssemblyReference.cache
