@@ -1,0 +1,13 @@
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Remainder1\Remainder1\bin\Debug\netcoreapp3.1\Remainder1.exe
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Remainder1\Remainder1\bin\Debug\netcoreapp3.1\Remainder1.deps.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Remainder1\Remainder1\bin\Debug\netcoreapp3.1\Remainder1.runtimeconfig.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Remainder1\Remainder1\bin\Debug\netcoreapp3.1\Remainder1.runtimeconfig.dev.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Remainder1\Remainder1\bin\Debug\netcoreapp3.1\Remainder1.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Remainder1\Remainder1\bin\Debug\netcoreapp3.1\Remainder1.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Remainder1\Remainder1\obj\Debug\netcoreapp3.1\Remainder1.csprojAssemblyReference.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Remainder1\Remainder1\obj\Debug\netcoreapp3.1\Remainder1.AssemblyInfoInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Remainder1\Remainder1\obj\Debug\netcoreapp3.1\Remainder1.AssemblyInfo.cs
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Remainder1\Remainder1\obj\Debug\netcoreapp3.1\Remainder1.csproj.CoreCompileInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Remainder1\Remainder1\obj\Debug\netcoreapp3.1\Remainder1.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Remainder1\Remainder1\obj\Debug\netcoreapp3.1\Remainder1.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Remainder1\Remainder1\obj\Debug\netcoreapp3.1\Remainder1.genruntimeconfig.cache
