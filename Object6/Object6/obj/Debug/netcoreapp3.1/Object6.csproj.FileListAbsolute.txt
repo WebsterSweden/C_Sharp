@@ -1,0 +1,13 @@
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Object6\Object6\bin\Debug\netcoreapp3.1\Object6.exe
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Object6\Object6\bin\Debug\netcoreapp3.1\Object6.deps.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Object6\Object6\bin\Debug\netcoreapp3.1\Object6.runtimeconfig.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Object6\Object6\bin\Debug\netcoreapp3.1\Object6.runtimeconfig.dev.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Object6\Object6\bin\Debug\netcoreapp3.1\Object6.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Object6\Object6\bin\Debug\netcoreapp3.1\Object6.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Object6\Object6\obj\Debug\netcoreapp3.1\Object6.csprojAssemblyReference.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Object6\Object6\obj\Debug\netcoreapp3.1\Object6.AssemblyInfoInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Object6\Object6\obj\Debug\netcoreapp3.1\Object6.AssemblyInfo.cs
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Object6\Object6\obj\Debug\netcoreapp3.1\Object6.csproj.CoreCompileInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Object6\Object6\obj\Debug\netcoreapp3.1\Object6.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Object6\Object6\obj\Debug\netcoreapp3.1\Object6.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Object6\Object6\obj\Debug\netcoreapp3.1\Object6.genruntimeconfig.cache
