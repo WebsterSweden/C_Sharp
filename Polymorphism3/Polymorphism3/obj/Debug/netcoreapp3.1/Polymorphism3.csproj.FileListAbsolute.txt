@@ -1,0 +1,13 @@
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Polymorphism3\Polymorphism3\bin\Debug\netcoreapp3.1\Polymorphism3.exe
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Polymorphism3\Polymorphism3\bin\Debug\netcoreapp3.1\Polymorphism3.deps.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Polymorphism3\Polymorphism3\bin\Debug\netcoreapp3.1\Polymorphism3.runtimeconfig.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Polymorphism3\Polymorphism3\bin\Debug\netcoreapp3.1\Polymorphism3.runtimeconfig.dev.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Polymorphism3\Polymorphism3\bin\Debug\netcoreapp3.1\Polymorphism3.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Polymorphism3\Polymorphism3\bin\Debug\netcoreapp3.1\Polymorphism3.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Polymorphism3\Polymorphism3\obj\Debug\netcoreapp3.1\Polymorphism3.csprojAssemblyReference.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Polymorphism3\Polymorphism3\obj\Debug\netcoreapp3.1\Polymorphism3.AssemblyInfoInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Polymorphism3\Polymorphism3\obj\Debug\netcoreapp3.1\Polymorphism3.AssemblyInfo.cs
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Polymorphism3\Polymorphism3\obj\Debug\netcoreapp3.1\Polymorphism3.csproj.CoreCompileInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Polymorphism3\Polymorphism3\obj\Debug\netcoreapp3.1\Polymorphism3.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Polymorphism3\Polymorphism3\obj\Debug\netcoreapp3.1\Polymorphism3.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\Polymorphism3\Polymorphism3\obj\Debug\netcoreapp3.1\Polymorphism3.genruntimeconfig.cache
