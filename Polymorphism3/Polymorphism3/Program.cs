@@ -6,6 +6,14 @@ namespace Polymorphism3
     {
         static void Main(string[] args)
         {
+            Parent parent = new Parent();
+            Console.WriteLine(parent.ParentStringOne);
+
+            Child child = new Child();
+            Console.WriteLine(child.ParentStringOne);
+
+            Parent parentChild = new Child();
+            Console.WriteLine(parentChild.ParentStringOne);
         }
     }
 }
