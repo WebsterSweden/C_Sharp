@@ -1,0 +1,13 @@
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\SolutionProject2\NewProjectTwo\bin\Debug\netcoreapp3.1\NewProjectTwo.exe
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\SolutionProject2\NewProjectTwo\bin\Debug\netcoreapp3.1\NewProjectTwo.deps.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\SolutionProject2\NewProjectTwo\bin\Debug\netcoreapp3.1\NewProjectTwo.runtimeconfig.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\SolutionProject2\NewProjectTwo\bin\Debug\netcoreapp3.1\NewProjectTwo.runtimeconfig.dev.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\SolutionProject2\NewProjectTwo\bin\Debug\netcoreapp3.1\NewProjectTwo.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\SolutionProject2\NewProjectTwo\bin\Debug\netcoreapp3.1\NewProjectTwo.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\SolutionProject2\NewProjectTwo\obj\Debug\netcoreapp3.1\NewProjectTwo.csprojAssemblyReference.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\SolutionProject2\NewProjectTwo\obj\Debug\netcoreapp3.1\NewProjectTwo.AssemblyInfoInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\SolutionProject2\NewProjectTwo\obj\Debug\netcoreapp3.1\NewProjectTwo.AssemblyInfo.cs
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\SolutionProject2\NewProjectTwo\obj\Debug\netcoreapp3.1\NewProjectTwo.csproj.CoreCompileInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\SolutionProject2\NewProjectTwo\obj\Debug\netcoreapp3.1\NewProjectTwo.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\SolutionProject2\NewProjectTwo\obj\Debug\netcoreapp3.1\NewProjectTwo.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\SolutionProject2\NewProjectTwo\obj\Debug\netcoreapp3.1\NewProjectTwo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\SolutionProject2\NewProjectOne\bin\Debug\netcoreapp3.1\NewProjectOne.exe
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\SolutionProject2\NewProjectOne\bin\Debug\netcoreapp3.1\NewProjectOne.deps.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\SolutionProject2\NewProjectOne\bin\Debug\netcoreapp3.1\NewProjectOne.runtimeconfig.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\SolutionProject2\NewProjectOne\bin\Debug\netcoreapp3.1\NewProjectOne.runtimeconfig.dev.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\SolutionProject2\NewProjectOne\bin\Debug\netcoreapp3.1\NewProjectOne.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\SolutionProject2\NewProjectOne\bin\Debug\netcoreapp3.1\NewProjectOne.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\SolutionProject2\NewProjectOne\obj\Debug\netcoreapp3.1\NewProjectOne.csprojAssemblyReference.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\SolutionProject2\NewProjectOne\obj\Debug\netcoreapp3.1\NewProjectOne.AssemblyInfoInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\SolutionProject2\NewProjectOne\obj\Debug\netcoreapp3.1\NewProjectOne.AssemblyInfo.cs
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\SolutionProject2\NewProjectOne\obj\Debug\netcoreapp3.1\NewProjectOne.csproj.CoreCompileInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\SolutionProject2\NewProjectOne\obj\Debug\netcoreapp3.1\NewProjectOne.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\SolutionProject2\NewProjectOne\obj\Debug\netcoreapp3.1\NewProjectOne.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp\SolutionProject2\NewProjectOne\obj\Debug\netcoreapp3.1\NewProjectOne.genruntimeconfig.cache
